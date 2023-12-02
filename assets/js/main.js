@@ -28,7 +28,7 @@
           var custom_greet = document.querySelector('#intro-greeting');
           custom_greet.style.display = 'block';
           var fullName = document.querySelector('#full-name');
-          fullName.innerHTML = 'Uday Kanth Reddy';
+          fullName.innerHTML = ' Kanth Reddy';
           $('#header').removeClass('header-top');
           $('section').removeClass('section-show');
           return;
@@ -39,7 +39,7 @@
           console.log('Header-top activated');
 
           var fullName = document.querySelector('#full-name');
-          fullName.innerHTML = 'Uday Kanth Reddy Kakarla';
+          fullName.innerHTML = 'Ahmed Shahriar Masud';
 
           var custom_greet = document.querySelector('#intro-greeting');
           custom_greet.style.display = 'none';
