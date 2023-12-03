@@ -1,6 +1,6 @@
 # Personal Portfolio 🔥
 
-> https://kukr.github.io/
+> https://shahriarmasud.github.io/portfolio/
 
 <!-- :star: Star me on GitHub — it helps! -->
 
@@ -43,16 +43,12 @@
 
 ## Sections 📚
 
-✔️ About\
-✔️ Interests\
-
-<!-- ✔️ Education\ -->
-<!-- ✔️ Online Certification\ -->
-
-✔️ Experience\
-✔️ Projects \
-✔️ Skills \
-✔️ Resume\
+✔️ About
+✔️ Interests
+✔️ Experience
+✔️ Projects
+✔️ Skills
+✔️ Resume
 
 <!-- ✔️ Contact Info -->
 
